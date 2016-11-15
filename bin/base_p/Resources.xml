@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Resources>
+	<FreeTypeFonts group="TestGroup" upload="false">
+		<font name="arial" family="arial" size="12" color="255;255;255;255" letterSpacing="0">
+			<Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+		</font>
+    <font name="Animated" family="Animated" size="12" color="255;255;255;255" letterSpacing="0">
+      <Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+    </font>
+	</FreeTypeFonts>
+	<Textures>
+    <texture id="Background" path="textures/background.png" group="TestGroup" upload="true"/>
+		<texture id="btnStart_Text" path="textures/Local/Buttons/Start_text.png" group="MainMenu" upload="true"/>
+    <texture id="bubble_black" path="textures/Particles/bubbles/Bubble - Black.png" group="Bubbles" upload="false"/>
+    <texture id="bubble_blue" path="textures/Particles/bubbles/Bubble - Blue.png" group="Bubbles" upload="false"/>
+    <texture id="bubble_green" path="textures/Particles/bubbles/Bubble - Green.png" group="Bubbles" upload="false"/>
+    <texture id="bubble_orange" path="textures/Particles/bubbles/Bubble - Orange.png" group="Bubbles" upload="false"/>
+    <texture id="bubble_purple" path="textures/Particles/bubbles/Bubble - Purple.png" group="Bubbles" upload="false"/>
+    <texture id="bubble_red" path="textures/Particles/bubbles/Bubble - Red.png" group="Bubbles" upload="false"/>
+    <texture id="bubble_white" path="textures/Particles/bubbles/Bubble - White.png" group="Bubbles" upload="false"/>
+    <texture id="bubble_yellow" path="textures/Particles/bubbles/Bubble - Yellow.png" group="Bubbles" upload="false"/>
+	</Textures>
+  <Sounds group="GardenSound">
+    <!-- задаём список звуков, каждому звуку в этом списка назначаем группу GardenSound-->
+    <sample id="BubblePop" path="sounds/pop.ogg" mode="stream+cache" mix="20" volumeFactor="1.0" pan="-1"/>
+    <sample id="Jump_and_run" path="sounds/jump_and_run.ogg" mode="stream+cache" mix="1"/>
+    <sample id="synth" path="sounds/synth.ogg" mode="stream+cache" mix="1"/>
+  </Sounds>
+
+</Resources>

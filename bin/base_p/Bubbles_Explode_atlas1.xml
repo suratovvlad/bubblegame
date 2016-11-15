@@ -1,0 +1,11 @@
+<Frames count="8" path="textures/particles/" group="Particles">
+	<frame x="1" y="1" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - Black"/>
+	<frame x="325" y="1" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - Blue"/>
+	<frame x="649" y="1" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - Green"/>
+	<frame x="1" y="325" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - Orange"/>
+	<frame x="325" y="325" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - Purple"/>
+	<frame x="649" y="325" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - Red"/>
+	<frame x="1" y="649" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - White"/>
+	<frame x="325" y="649" width="322" height="322" innerX="0" innerY="0" frameWidth="322" frameHeight="322" path="../textures/Particles/bubbles/Bubble - Yellow"/>
+</Frames>
+
