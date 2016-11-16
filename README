@@ -1,6 +1,0 @@
-Build steps:
-1) Get engine.tar.gz from https://www.dropbox.com/s/g92gkd63f9ez2rn/engine.tar.gz?dl=0
-2) Put Engine.lib and Engined.lib from archive in to engine/lib/vc12/
-3) Build solution Test.sln using Visual Studio 2013.
-
-P.S. You can get Engine*.lib in this repo in engine.tar.gz
